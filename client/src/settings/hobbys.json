@@ -1,0 +1,18 @@
+[
+    {
+        "name":"Dish",
+        "imagePath":["dish_1.jpg","dish_2.jpg","dish_3.jpg"]
+    },
+    {
+        "name":"Cook",
+        "imagePath":["cake_1.jpg","cake_2.jpg","cake_3.jpg"]
+    },
+    {
+        "name":"Selfnail",
+        "imagePath":["nail_1.jpg","nail_2.jpg","nail_3.jpg"]
+    },
+    {
+        "name":"Fishing",
+        "imagePath":["fish_1.jpg","fish_2.jpg"]
+    }
+]

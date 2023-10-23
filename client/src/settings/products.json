@@ -1,0 +1,50 @@
+[
+    {
+        "title": "ドレミハンドル実験用システム",
+        "grade": "M1",
+        "introduction": "Assetto Corsaで実験を行う用に、UDP通信で受信した情報からドレミハンドルの音を鳴らし、走行データをcsvファイル出力できるシステム",
+        "language":["Processing"],
+        "url": "",
+        "imagePath": "doremi.png"
+    },
+    {
+        "title": "メロ字ィ",
+        "grade": "B3〜M1",
+        "introduction": "ペンの位置に応じて音階が鳴ることにより、退屈な文字練習を楽しく行えるようにするサービス",
+        "language":["Nuxt.js", "Go"],
+        "url": "https://melogy.net",
+        "imagePath": "melogy.png"
+    },
+    {
+        "title": "トバクバク",
+        "grade": "B4",
+        "introduction": "遊園地の待ち時間をより楽しくするゲーム。これから乗るアトラクションで友達の心拍数を予想してみよう！",
+        "language":["Vue.js", "PHP"],
+        "url": "",
+        "imagePath": "tobakubaku.png"
+    },
+    {
+        "title": "Myハンディ",
+        "grade": "B2",
+        "introduction": "はじめて行く飲食店であたふたする。。。どんな風に注文したらいいのか教えてくれるアプリです。",
+        "language":["HTML", "JavaScript"],
+        "url": "https://nkmr.io/webp/teamA/top.php",
+        "imagePath": "myhandy.png"
+    },
+    {
+        "title": "料理動画",
+        "grade": "B1~",
+        "introduction": "料理動画を上げ始めたり",
+        "language":["とくになし"],
+        "url": "https://www.youtube.com/@sayuricooking9864",
+        "imagePath": "youtube.png"
+    },
+    {
+        "title": "血痕がただの血になるアプリ",
+        "grade": "B2",
+        "introduction": "血にビビらず映画を見たい欲望を形に",
+        "language":["MATLAB"],
+        "url": "",
+        "imagePath": "after.jpg"
+    }
+]
