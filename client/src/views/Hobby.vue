@@ -1,6 +1,6 @@
 <script lang="ts" setup>
     import PageTitle from '@/components/common/PageTitle.vue';
-    import hobbysList from '../settings/hobbys.json';
+    import hobbysList from '@/settings/hobbys.json';
 </script>
 
 <template>
@@ -17,7 +17,7 @@
             >
             <v-col v-for="(image,n) in hobby.imagePath" :key="n" class="d-flex child-flex" cols="4">
                 <v-img
-                    :src="`../src/assets/hobby/${image}`"
+                    :src="`@/assets/hobby/${image}`"
                     class="grey lighten-2"
                     height="500"
                     width="300"

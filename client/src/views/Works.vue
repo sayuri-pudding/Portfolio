@@ -1,7 +1,7 @@
 <script lang="ts" setup>
     import PageTitle from    '@/components/common/PageTitle.vue';
     // import DetailDialog from '@/components/works/DetailDialog.vue';
-    import Works from '../settings/works.json';
+    import Works from '@/settings/works.json';
     // import {ref} from 'vue';//常に監視してくれる関数
 
     // const isDialog = ref<boolean>(false);

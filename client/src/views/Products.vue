@@ -1,6 +1,6 @@
 <script lang="ts" setup>
     import PageTitle from '@/components/common/PageTitle.vue';
-    import products from "../settings/products.json";
+    import products from "@/settings/products.json";
 </script>
 
 <template>
